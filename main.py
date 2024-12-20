@@ -106,7 +106,7 @@ if col1 and col2:
         fig = px.imshow(
             correlation_matrix,
             text_auto=True,
-            color_continuous_scale="RdBu",  # Replace with a valid Plotly color scale
+            color_continuous_scale="Viridis",  # Replace with a valid Plotly color scale
             title=f"Correlation Heatmap: {col1} and {col2}",
         )
         fig.update_layout(
