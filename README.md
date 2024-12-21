@@ -80,5 +80,5 @@ Categorical columns: restaurant_name, cuisine_type, day_of_the_week,
 
 # Known Issues
 Ensure the dataset food_order.csv is uncleaned data and the clean data is cleaned_dataset2.csv is present in the root directory.
-The app is optimized for desktops; smaller screens may impact the layout. 
+The app is optimized for desktops smaller screens may impact the layout. 
 
