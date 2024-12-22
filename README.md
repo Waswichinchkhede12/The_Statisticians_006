@@ -1,4 +1,4 @@
-# 🍽️ Food Ordering & Delivery Dashboard 
+#🍽️Food Ordering & Delivery Dashboard 
 
 ## Dashboard Link: https://thestatisticians006-uwwsf8rbywqqhtigq98qhn.streamlit.app/
 
