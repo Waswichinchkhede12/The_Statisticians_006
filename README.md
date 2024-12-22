@@ -1,4 +1,4 @@
-# 🍽️ The food order & delivery dashboard 
+# 🍽️ Food Ordering & Delivery Dashboard 
 
 This project is a **Streamlit-based dashboard** for analyzing food orders and delivery across different restaurants. 
 ---
@@ -14,7 +14,7 @@ This project is a **Streamlit-based dashboard** for analyzing food orders and de
    - Average delivery time by day of the week.
    - Correlation heatmap.
    - Histogram visualizes the distribution of the cost of orders. 
-   - Pie chart visualizes the number of orders by cuisine type. 
+   - Pie chart visualizes the Percentage of orders by cuisine type. 
 
 4. **User Inputs**:
    - Select restaurant, cuisine, day of the week, and rating for focused analysis.
@@ -33,7 +33,7 @@ This project is a **Streamlit-based dashboard** for analyzing food orders and de
   - Matplotlib
   - Seaborn
   - Plotly Express
-- **Data**: Food order and delivery dashboard (`food_order.csv`)
+- **Data**: Food ordering and delivery dashboard (`food_order.csv`)
 
 ---
 
@@ -65,7 +65,7 @@ File structure
  
         
 # How to use
- Launch the app using streamlit run app.py.
+Launch the app using streamlit run app.py.
 ## Explore the Dashboard:
 Use the sidebar to select a restaurant, cuisine, day of the week, and rating.
 View missing values, duplicate entries, and their replacements.
